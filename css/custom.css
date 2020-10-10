@@ -234,6 +234,7 @@ ul.footer-menu {
 }
 
 .footer-table td {
+	white-space: nowrap;
 	vertical-align: bottom;
 	border-bottom: none
 }
